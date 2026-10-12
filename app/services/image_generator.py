@@ -1,0 +1,1 @@
+# Stable Diffusion service placeholder
